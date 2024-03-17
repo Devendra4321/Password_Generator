@@ -1,4 +1,4 @@
-#Password Generator
+# Password Generator
 
 This app is used to generate password.
 
